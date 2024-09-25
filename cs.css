@@ -1,7 +1,8 @@
 img{
-    margin: 60px;
+    margin: 50px;
     margin-top: 50px;
-    border-radius: 10px;
+    border-radius: 10%;
+    width: 83%;
 
 }
 p{
@@ -13,5 +14,6 @@ p{
 span img{
     margin: 10px 5px;
     border-radius: 30px;
+    
     
 }
